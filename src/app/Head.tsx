@@ -1,0 +1,1 @@
+export const SITE_NAME = "Realest | React Next JS Template";
