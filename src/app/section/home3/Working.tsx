@@ -75,8 +75,7 @@ const steps = [
                 <div className="image">
                   <img
                     src={item.img}
-                    alt={item.title}
-                  />
+                    alt=""/>
                 </div>
                 <div className="h4 title">
                   {item.title}
