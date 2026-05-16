@@ -3695,9 +3695,9 @@ Main Header
 }
 @media (max-width: 1023.98px) {
   .main-header .main-box .nav-outer {
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: end;
+    -webkit-box-pack: flex-end;
+        -ms-flex-pack: flex-end;
+            justify-content: flex-end;
   }
 }
 @media (max-width: 1024px) {
@@ -6952,9 +6952,9 @@ Section Title
           flex: 1;
 }
 .pricing-card-2 .price-head {
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: end;
+  -webkit-box-align: flex-end;
+      -ms-flex-align: flex-end;
+          align-items: flex-end;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -7118,9 +7118,9 @@ Section Title
           flex: 1;
 }
 .pricing-card-ai .price-area {
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: end;
+  -webkit-box-align: flex-end;
+      -ms-flex-align: flex-end;
+          align-items: flex-end;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -9053,9 +9053,9 @@ Section Title
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: start;
+  -webkit-box-align: flex-start;
+      -ms-flex-align: flex-start;
+          align-items: flex-start;
   gap: 75px;
   padding-top: 7px;
 }
@@ -9187,9 +9187,9 @@ Section Title
         -ms-flex-direction: column;
             flex-direction: column;
     gap: 30px;
-    -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: start;
+    -webkit-box-align: flex-start;
+        -ms-flex-align: flex-start;
+            align-items: flex-start;
   }
 }
 .about-section-two .content-column .inner-column .bottom-box .inner-box .counter-box .icon {
